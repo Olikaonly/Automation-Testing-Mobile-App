@@ -1,0 +1,1 @@
+{"uuid":"868ed598-511d-45e5-9083-90e2a6d1644d","name":"ru.gb.tests.LoginValidEmailAddressTest","children":["85182d47-665f-40b8-8cbe-a2ad5d8f43c5"],"befores":[],"afters":[{"name":"setDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648190970901,"stop":1648190970903}],"start":1648190955421,"stop":1648190970920}
